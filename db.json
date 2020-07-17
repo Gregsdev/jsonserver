@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "title": "Third post created ",
+      "content": "Some content ",
+      "id": 3
+    },
+    {
+      "title": "AddListener Test",
+      "content": "Testing ",
+      "id": 4
+    },
+    {
+      "title": "Listener remove();",
+      "content": "Testing ",
+      "id": 5
+    },
+    {
+      "title": "Testing Update to Update the post ",
+      "content": "Content ",
+      "id": 6
+    }
+  ]
+}
